@@ -7,8 +7,8 @@
 </head>
 <body>
     <h1>
-        <?php echo "hello world"; ?>
-
+        <?php echo "NIGGA NIGGA NIGGA NIGGA"; ?>
+        
     </h1>
 </body>
 </html>
