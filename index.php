@@ -8,6 +8,7 @@
 <body>
     <h1>
         <?php echo "hello world"; ?>
+        <img src="kz1.jpg" alt="">
 
     </h1>
 </body>
